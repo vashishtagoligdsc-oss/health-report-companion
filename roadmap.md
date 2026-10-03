@@ -1,3 +1,3 @@
-- [ ] Build white homepage with compelling medical-report visual and demo sign-in
-- [ ] Build dashboard with summary, grounded Q&A, PDF upload, and previous reports
-- [ ] Add a small server-side analysis flow and verify the demo
+- [x] Build white homepage with compelling medical-report visual and demo sign-in
+- [x] Build dashboard with summary, grounded Q&A, PDF upload, and previous reports
+- [ ] Verify the server-side analysis flow and demo interactions
